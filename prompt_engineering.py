@@ -1,0 +1,4 @@
+art_styles = {
+    "None": "",
+
+}
